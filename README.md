@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrefatalhasan" alt="devrefatalhasan" /></a> </p>
 
 - 📫 How to reach me **iamrefatalhasan@gmail.com**
-
 - ⚡ Fun fact **Light brings the bugs, So we code in the dark, Where focus stays sharp, And ideas spark! 🌙💻**
 
 <h3 align="left">Connect with me:</h3>
